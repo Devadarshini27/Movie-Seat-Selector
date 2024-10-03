@@ -16,6 +16,6 @@ HTML: For structuring the page content and layout.
 CSS: For styling the seats, layout, and overall design of the page.
 JavaScript: For adding interactivity, managing seat selection, and calculating the total price.
 
-How to view:
+How to view: https://devadarshini27.github.io/Movie-Seat-Selector/
 
 Thank you for visiting my website!!
